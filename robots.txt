@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arg0s.github.io/resources-i8riic/sitemap.xml
